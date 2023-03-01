@@ -2,5 +2,7 @@
     "editor.detectIndentation": false,
     "editor.tabSize": 4,
     "editor.formatOnPaste": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "vscode-office.openOutline": true,
+    "markdown-preview-enhanced.imageFolderPath": "/images/"
 }
